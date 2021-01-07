@@ -4,7 +4,7 @@ ________
 
 
 - Cloned GitHub repo available on https://github.com/Silame83/simple-python-app.git
-    There, run Action CI from GitHub (have something failed, still running on checkout, why...?)
+    There, run Action CI from GitHub (have something failed, still running on status Checkout, why...?)
     
     <img src="https://github.com/Silame83/capitolis/blob/master/action_failed.png">
    
