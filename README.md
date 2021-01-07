@@ -1,3 +1,8 @@
+Activity
+________
+
+
+
 - Cloned GitHub repo available on https://github.com/Silame83/simple-python-app.git
     There, run Action CI from GitHub (have something failed, still running on checkout, why...?)
    
