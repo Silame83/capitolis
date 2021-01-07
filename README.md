@@ -8,4 +8,6 @@ ________
     
     <img src="https://github.com/Silame83/capitolis/blob/master/action_failed.png">
    
+   The YML configuration file available on https://github.com/Silame83/simple-python-app/actions/runs/468486579/workflow
+   
 - Into https://github.com/Silame83/capitolis.git attached all configuration files (Vagrant) include Ansible with playbook file (deploying from simple-python-app) 
